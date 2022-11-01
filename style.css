@@ -46,8 +46,9 @@ body {
   align-items: center;
   justify-content: center;
   width: 400px;
-  padding: 1rem 2rem;
-  font-size: 1.8rem;
+  padding: 1.4rem 2rem;
+  font-size: 1.4rem;
+  line-height: 1.4;
   background-color: #deeafd;
   color: #174ea6;
   font-family: sans-serif;
